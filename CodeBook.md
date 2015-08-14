@@ -1,9 +1,3 @@
----
-title: "CodeBook"
-author: "Mayank Bhushan"
-date: "Friday 14 August 2015"
-output: html_document
----
 
 ##Human Activity Recognition Using Smartphones Dataset
 

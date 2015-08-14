@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Mayank Bhushan"
-date: "Friday 14 August 2015"
-output: html_document
----
-
 
 This repository contains a R script **run_analysis.R** which runs several commands on the UCI HAR dataset.
 
